@@ -14,8 +14,7 @@ public class TC_002 {
 		driver.findElementById("email").sendKeys("Hello");
 		driver.findElementById("pass").sendKeys("Hello");
 		driver.quit();
-		driver.close();
-
+		
 	}
 	
 	
